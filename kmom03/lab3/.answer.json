@@ -1,0 +1,30 @@
+{
+    "details": "Generated for lash23 at 2024-09-26 18:42:27.",
+    "key": "99f5fbab223e8b78b57d42ee599a3984",
+    "summary": {
+        "questions": 8,
+        "points": 8,
+        "pass": 8.0,
+        "passdistinct": 8.0
+    },
+    "points": {
+        "1.1": 1,
+        "1.2": 1,
+        "1.3": 1,
+        "1.4": 1,
+        "2.1": 1,
+        "2.2": 1,
+        "2.3": 1,
+        "2.4": 1
+    },
+    "answers": {
+        "1.1": true,
+        "1.2": false,
+        "1.3": 31,
+        "1.4": "AP4ssword is a valid password and contains 2 vowels.",
+        "2.1": 282,
+        "2.2": "beach is a funny word",
+        "2.3": 7056,
+        "2.4": "blunderbuss is a funny word and the square is 6724"
+    }
+}
